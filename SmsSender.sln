@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsSender", "SmsSender\SmsSender.csproj", "{ACAE77ED-BEBD-4FBA-BFA8-E1FEE4656578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsDAL", "SmsDAL\SmsDAL.csproj", "{8AFBB513-FC96-4F15-8A54-504AFB57F73A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAE77ED-BEBD-4FBA-BFA8-E1FEE4656578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAE77ED-BEBD-4FBA-BFA8-E1FEE4656578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAE77ED-BEBD-4FBA-BFA8-E1FEE4656578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAE77ED-BEBD-4FBA-BFA8-E1FEE4656578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFBB513-FC96-4F15-8A54-504AFB57F73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFBB513-FC96-4F15-8A54-504AFB57F73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFBB513-FC96-4F15-8A54-504AFB57F73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFBB513-FC96-4F15-8A54-504AFB57F73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E220B65B-F194-4783-AEE9-97582183240A}
+	EndGlobalSection
+EndGlobal
